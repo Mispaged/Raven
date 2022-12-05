@@ -91,3 +91,16 @@
 [10:38:11] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
 [10:38:11] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
 [10:38:11] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[11:08:55] [Client thread/INFO]: Stopping!
+[11:08:55] [Client thread/INFO]: SoundSystem shutting down...
+[11:08:55] [Server thread/INFO]: Stopping server
+[11:08:55] [Server thread/INFO]: Saving players
+[11:08:55] [Server thread/INFO]: Saving worlds
+[11:08:55] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[11:08:55] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[11:08:55] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[11:08:55] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[11:08:55] [Client Shutdown Thread/INFO]: Stopping server
+[11:08:55] [Client Shutdown Thread/INFO]: Saving players
+[11:08:55] [Client Shutdown Thread/INFO]: Saving worlds
+[11:08:55] [Client Shutdown Thread/INFO]: Saving chunks for level 'New World'/Overworld
