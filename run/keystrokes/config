@@ -1,0 +1,10 @@
+hypixel-api~ 
+paste-api~ 
+clickgui-pos~ combat~454~2~true/movement~355~105~true/player~551~2~true/world~215~10~true/render~113~10~true/minigames~356~2~true/other~5~2~true/client~5~128~fals
+loaded-cfg~ default
+HUDX~ 5
+HUDY~ 70
+terminal-pos~ 4,188
+terminal-size~ 138,103
+terminal-opened~ false
+terminal-hidden~ true

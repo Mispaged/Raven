@@ -1,0 +1,15 @@
+[
+{
+  "modid": "AutoGG",
+  "name": "AutoGG",
+  "description": "AutoGG by Mispaged",
+  "version": "1.0.0",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["OFP", "Fyu", "spiderfrog", "Yario & Extazz"],
+  "credits": "OFP, Fyu, spiderfrog, Yario & Extazz",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,93 @@
+[10:34:33] [main/INFO]: Extra: []
+[10:34:33] [main/INFO]: Running with arguments: [--userProperties, {}, --assetsDir, /Users/avisharma/.gradle/caches/minecraft/assets, --assetIndex, 1.8, --accessToken{REDACTED}, --version, 1.8.9, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[10:34:33] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[10:34:33] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[10:34:33] [main/INFO]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[10:34:33] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[10:34:33] [main/INFO]: Forge Mod Loader version 11.15.1.2318 for Minecraft 1.8.9 loading
+[10:34:33] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_202, running on Mac OS X:x86_64:10.16, installed at /Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/jre
+[10:34:33] [main/INFO]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
+[10:34:33] [main/INFO]: Calling tweak class net.minecraftforge.gradle.tweakers.CoremodTweaker
+[10:34:33] [main/INFO]: Injecting location in coremod net.minecraftforge.fml.relauncher.FMLCorePlugin
+[10:34:33] [main/INFO]: Injecting location in coremod net.minecraftforge.classloading.FMLForgePlugin
+[10:34:33] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[10:34:33] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[10:34:33] [main/INFO]: Loading tweak class name net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+[10:34:33] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[10:34:33] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[10:34:33] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[10:34:33] [main/ERROR]: The binary patch set is missing. Either you are in a development environment, or things are not going to work!
+[10:34:34] [main/ERROR]: FML appears to be missing any signature data. This is not a good thing
+[10:34:34] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[10:34:34] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[10:34:35] [main/INFO]: Calling tweak class net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+[10:34:35] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[10:34:35] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[10:34:35] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[10:34:37] [Client thread/INFO]: Setting user: Player146
+[10:34:40] [Client thread/INFO]: LWJGL Version: 2.9.2
+[10:34:41] [Client thread/INFO]: MinecraftForge v11.15.1.2318 Initialized
+[10:34:44] [Client thread/INFO]: Replaced 229 ore recipies
+[10:34:45] [Client thread/INFO]: Found 0 mods from the command line. Injecting into mod discoverer
+[10:34:45] [Client thread/INFO]: Searching /Users/avisharma/Downloads/Raven-bPLUS-main/run/mods for mods
+[10:34:51] [Client thread/INFO]: Forge Mod Loader has identified 4 mods to load
+[10:34:52] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, keystrokesmod] at CLIENT
+[10:34:52] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, keystrokesmod] at SERVER
+[10:34:53] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:KeystrokesMod
+[10:34:53] [Client thread/INFO]: Processing ObjectHolder annotations
+[10:34:53] [Client thread/INFO]: Found 384 ObjectHolder annotations
+[10:34:53] [Client thread/INFO]: Identifying ItemStackHolder annotations
+[10:34:53] [Client thread/INFO]: Found 0 ItemStackHolder annotations
+[10:34:53] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+[10:34:53] [Forge Version Check/INFO]: [Forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[10:34:54] [Client thread/INFO]: Applying holder lookups
+[10:34:54] [Client thread/INFO]: Holder lookups applied
+[10:34:54] [Client thread/INFO]: Injecting itemstacks
+[10:34:54] [Client thread/INFO]: Itemstack injection complete
+[10:34:54] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[10:34:55] [Thread-7/INFO]: Initializing LWJGL OpenAL
+[10:34:55] [Thread-7/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[10:34:56] [Thread-7/INFO]: OpenAL initialized.
+[10:34:56] [Sound Library Loader/INFO]: Sound engine started
+[10:35:00] [Client thread/INFO]: Max texture size: 16384
+[10:35:00] [Client thread/INFO]: Created: 16x16 textures-atlas
+[10:35:03] [Client thread/INFO]: Injecting itemstacks
+[10:35:03] [Client thread/INFO]: Itemstack injection complete
+[10:35:03] [Client thread/INFO]: Forge Mod Loader has successfully loaded 4 mods
+[10:35:03] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:KeystrokesMod
+[10:35:03] [Client thread/INFO]: SoundSystem shutting down...
+[10:35:03] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[10:35:03] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[10:35:04] [Thread-10/INFO]: Initializing LWJGL OpenAL
+[10:35:04] [Thread-10/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[10:35:04] [Thread-10/INFO]: OpenAL initialized.
+[10:35:04] [Sound Library Loader/INFO]: Sound engine started
+[10:35:07] [Client thread/INFO]: Max texture size: 16384
+[10:35:09] [Client thread/INFO]: Created: 512x512 textures-atlas
+[10:37:54] [Server thread/INFO]: Starting integrated minecraft server version 1.8.9
+[10:37:54] [Server thread/INFO]: Generating keypair
+[10:37:57] [Server thread/INFO]: Injecting existing block and item data into this server instance
+[10:37:57] [Server thread/INFO]: Applying holder lookups
+[10:37:57] [Server thread/INFO]: Holder lookups applied
+[10:37:58] [Server thread/INFO]: Loading dimension 0 (New World) (net.minecraft.server.integrated.IntegratedServer@71114204)
+[10:37:58] [Server thread/INFO]: Loading dimension 1 (New World) (net.minecraft.server.integrated.IntegratedServer@71114204)
+[10:37:58] [Server thread/INFO]: Loading dimension -1 (New World) (net.minecraft.server.integrated.IntegratedServer@71114204)
+[10:37:58] [Server thread/INFO]: Preparing start region for level 0
+[10:37:59] [Server thread/INFO]: Preparing spawn area: 45%
+[10:38:00] [Server thread/INFO]: Changing view distance to 12, from 10
+[10:38:01] [Netty Local Client IO #0/INFO]: Server protocol version 2
+[10:38:01] [Netty Server IO #1/INFO]: Client protocol version 2
+[10:38:01] [Netty Server IO #1/INFO]: Client attempting to join with 4 mods : keystrokesmod@KMV5,FML@8.0.99.99,Forge@11.15.1.2318,mcp@9.19
+[10:38:01] [Netty Local Client IO #0/INFO]: [Netty Local Client IO #0] Client side modded connection established
+[10:38:01] [Server thread/INFO]: [Server thread] Server side modded connection established
+[10:38:01] [Server thread/INFO]: Player146[local:E:d6f51a6e] logged in with entity id 249 at (-193.75000670595853, 70.24918707874468, 7.40235237759936)
+[10:38:01] [Server thread/INFO]: Player146 joined the game
+[10:38:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2906ms behind, skipping 58 tick(s)
+[10:38:03] [Server thread/INFO]: Saving and pausing game...
+[10:38:04] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[10:38:04] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[10:38:04] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[10:38:11] [Server thread/INFO]: Saving and pausing game...
+[10:38:11] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[10:38:11] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[10:38:11] [Server thread/INFO]: Saving chunks for level 'New World'/The End
